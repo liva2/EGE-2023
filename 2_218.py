@@ -1,4 +1,4 @@
-# ((z → y) ∧ (¬ x → w)) → ((z ≡ w) ∨ (y ∧ ¬ x)).
+# 218 ((z → y) ∧ (¬ x → w)) → ((z ≡ w) ∨ (y ∧ ¬ x)).
 print('ЕГЭ_2 задача 218')
 print('x,y,z,w')
 for x in range(2):
