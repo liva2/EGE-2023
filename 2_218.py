@@ -1,5 +1,5 @@
 # ((z → y) ∧ (¬ x → w)) → ((z ≡ w) ∨ (y ∧ ¬ x)).
-print('ЕГЭ 2 задача 218')
+print('ЕГЭ задача 218')
 print('x,y,z,w')
 for x in range(2):
     for y in range(2):
